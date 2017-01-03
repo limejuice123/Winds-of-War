@@ -1,0 +1,44 @@
+NO:Relative Number of Troops 1-5
+EQ:Equipment level 0-3
+CO:Competency Level 0-3
+
+Eden Forces:
+
+Eden Peacekeepers 
+NO: 4
+EQ: 1
+CO: 1
+
+Eden Conscripts
+NO: 0 Pre War to 5 Early War
+EQ: 1
+CO: 0 (Early) 1 (Mid) 2 (Late)
+
+Zion Forces:
+
+Citizen Militia
+NO: 3
+EQ: 1
+CO: 1
+
+Zion Legionaires
+NO: 2
+EQ: 2
+CO: 1
+
+Zion Triarii
+NO: 1
+EQ: 3
+CO: 3
+
+Avarice Forces:
+
+Citizen Miltia
+NO: 2
+EQ: 1
+CO: 1
+
+Royal Guards
+NO: 1
+EQ: 3
+CO: 2
