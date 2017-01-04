@@ -1,0 +1,49 @@
+Locations in the World
+
+The Station Oceanus
+
+Locations In Zion
+Zion-Capital
+
+Every City is named in the following format
+First word is Zion
+Then a letter indicating its purpose in the empire
+•	M-Muster Ground
+•	AG-Agricultural
+•	ZI-Zion Improvement (Research and construction)
+•	X-Unknown designation- No-one outside of these cities gets in or out. Every shipment in and out in secure parcels. Protected by he best security Zion can offer.
+Followed by a number indicating when it was founded in relation to other cities
+
+Locations in Zion Territory
+Zion-One
+Zion-AG-01
+Zion-ZI-01
+Zion-M-01
+Zion-M-02
+Zion-M-03  (Triarii)
+Zion-AG-02
+Zion-ZI-02
+Zion-X-01
+Zion-M-04
+
+
+Locations In Avarice
+
+Just one. Avarice AKA "The City of Hunger”
+
+Locations In Eden
+
+Vassals of Eden
+
+BreadBasket State - Fornitura
+Manufacturing/Repurposing/Recyling State - Lucca
+Artistry/Bankers - Zurich
+
+Cities of Eden
+Capital - Aufstieg
+Slum City - The Slums
+City of Culture - Oceanus Macao
+Traders - Pitt City
+Military Base - Fort Hoffburg
+Bland City - Banal
+Muster Ground/Checkpoint - The Muster Ground
