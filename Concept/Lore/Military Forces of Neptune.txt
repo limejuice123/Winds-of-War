@@ -6,13 +6,21 @@ Eden Forces:
 
 Eden Peacekeepers 
 Eden Peacekeepers are the regular troops of Eden, employed directly by the President to ensure peace throughout the territory of Eden.
-In the early days of Edens formation and the Vassilization of Eden's Vassals these troops saw intense service on par with the soldiers of Zion but in the Decades since the soldiery of Eden has fallen out of general use, being poorly equipped and trained and considered more like Police than a Military Force. In the pre War era these troops outnumber the regular zion soldiers two to one, but by the beginning of the mid war have been reduced in number to the point that they are no longer viable to be a seperate entity and the few remaining Peacekeepers are rolled into the same divisions as the Conscripts.
+In the early days of Edens formation and the Vassilization of Eden's Vassals these troops saw intense service on par with the soldiers
+of Zion but in the Decades since the soldiery of Eden has fallen out of general use, being poorly equipped and trained and considered
+more like Police than a Military Force. In the pre War era these troops outnumber the regular zion soldiers two to one, but by the
+beginning of the mid war have been reduced in number to the point that they are no longer viable to be a seperate entity and the few
+remaining Peacekeepers are rolled into the same divisions as the Conscripts.
 NO: 4
 EQ: 1
 CO: 1
 
 Eden Conscripts
-Edens response to the wholescale slaughter of its peacekeepers, none exist at the first stage of pre war but by the middle of the early war they are the largest military force on Oceanus. This however is of little value early war when they are poorly equipped and completely untrained. But through the struggles of war these Men and Women become Battle Hardened and through the enormous casuality rate they go through the survivors grow to become some of the most militarily competent troops inhabiting Oceanus outmatched only by the Zion Triarii and Avarcian Royal Guard.
+Edens response to the wholescale slaughter of its peacekeepers, none exist at the first stage of pre war but by the middle of the early
+war they are the largest military force on Oceanus. This however is of little value early war when they are poorly equipped and
+completely untrained. But through the struggles of war these Men and Women become Battle Hardened and through the enormous casuality
+rate they go through the survivors grow to become some of the most militarily competent troops inhabiting Oceanus outmatched only by the
+Zion Triarii and Avarcian Royal Guard.
 NO: 0 Pre War to 5 Early War
 EQ: 1
 CO: 0 (Early) 1 (Mid) 2 (Late)
@@ -20,19 +28,34 @@ CO: 0 (Early) 1 (Mid) 2 (Late)
 Zion Forces:
 
 Citizen Militia
-These are people never meant to encounter Eden troops, the general citizenery of Zion, however in the Late War when Zion itself is invaded by Eden the People strike back. Every citizen of Zion goes through manditory training to test their potential to become Legionnaires and even those that dont make the cut are well trained and well equipped by Eden standards. When Zion is forced to rely on them they are more capable than the Eden Citizenery at fighting back and their numbers provide fierce resistance to Eden invasion especially when using their greater numbers to complement the regular Legionnaires of Zion.
+These are people never meant to encounter Eden troops, the general citizenery of Zion, however in the Late War when Zion itself is
+invaded by Eden the People strike back. Every citizen of Zion goes through manditory training to test their potential to become
+Legionnaires and even those that dont make the cut are well trained and well equipped by Eden standards. When Zion is forced to rely on
+them they are more capable than the Eden Citizenery at fighting back and their numbers provide fierce resistance to Eden invasion
+especially when using their greater numbers to complement the regular Legionnaires of Zion.
 NO: 3
 EQ: 1
 CO: 1
 
 Zion Legionnaires
-The standard troops of Zion. Citizens of Zion are regularly tested to see their potential and those that surpass the gruelling and potentially life threatening tests of the Zion military are inducted into the Legionnaries. The Legionnaires account for a large proportion of the entire Zion population, to allow the Zion economy to afford this during peacetime the Legionnaires are expected to maintain and improve upon their own equipment and often to source their own food either through trade or military farms leaving these troops with some of the best equipment and survivalist training possible as they are capable of sustaining themselves as a military unit without civilian or Governmental assistance if necessery.
+The standard troops of Zion. Citizens of Zion are regularly tested to see their potential and those that surpass the gruelling and
+potentially life threatening tests of the Zion military are inducted into the Legionnaries. The Legionnaires account for a large
+proportion of the entire Zion population, to allow the Zion economy to afford this during peacetime the Legionnaires are expected to
+maintain and improve upon their own equipment and often to source their own food either through trade or military farms leaving these
+troops with some of the best equipment and survivalist training possible as they are capable of sustaining themselves as a military unit
+without civilian or Governmental assistance if necessery.
 NO: 2
 EQ: 2
 CO: 1
 
 Zion Triarii
-The Triarii of Zion are the most fearsome soldiers on all of Neptune, a Legionnary can only join the ranks of the Triarii if they challenge an existing member to a fight to the death. If the challenger succedes then they take the fallen Triarii's place, if they fail then they are listed as a casuality of war. In this way the ranks of the Triarii are only filled with the very best of Zion's people. Unlike Legionnaries they are not expected to enagage in any peacetime activity except training for when peacetime is over, they are supplied with the best weapons and armour that can be afforded by Zion and see no end to either Killing or training to kill leaving them in the position of the superlative troops of the war. Even at the end of the war Eden has no response to the Triarii and only the very limited number of them prevent them from dominating every battle they become part of.
+The Triarii of Zion are the most fearsome soldiers on all of Neptune, a Legionnary can only join the ranks of the Triarii if they
+challenge an existing member to a fight to the death. If the challenger succedes then they take the fallen Triarii's place, if they fail
+then they are listed as a casuality of war. In this way the ranks of the Triarii are only filled with the very best of Zion's people.
+Unlike Legionnaries they are not expected to enagage in any peacetime activity except training for when peacetime is over, they are
+supplied with the best weapons and armour that can be afforded by Zion and see no end to either Killing or training to kill leaving them
+in the position of the superlative troops of the war. Even at the end of the war Eden has no response to the Triarii and only the very
+limited number of them prevent them from dominating every battle they become part of.
 NO: 1
 EQ: 3
 CO: 3
@@ -40,13 +63,22 @@ CO: 3
 Avarice Forces:
 
 Citizen Miltia
-Never in Avarcian history have the peasantry of Avarice been allowed to bear arms to prevent uprising. However with the remarkable change in leadership by Serene Doge Enrico Avarice the storehouses of the Royal Guard were opened to the People so they could arm themselves for war Against first Fornitura and later Eden. Although given access to one of the most advanced arsenals in Oceanus the actual amount of equipment was too few to fully equip every fighter of Avarice with the full gear of the Royal Guard so their equipement is a mismatch of incredibly advanced equipment and scraps of metal and black market weapons that they need to fill in the gaps in their equipment. They have some level of military Competency from years of living in the cut throat societies of lower Avarice.
+Never in Avarcian history have the peasantry of Avarice been allowed to bear arms to prevent uprising. However with the remarkable
+change in leadership by Serene Doge Enrico Avarice the storehouses of the Royal Guard were opened to the People so they could arm
+themselves for war Against first Fornitura and later Eden. Although given access to one of the most advanced arsenals in Oceanus the
+actual amount of equipment was too few to fully equip every fighter of Avarice with the full gear of the Royal Guard so their equipement
+is a mismatch of incredibly advanced equipment and scraps of metal and black market weapons that they need to fill in the gaps in their
+equipment. They have some level of military Competency from years of living in the cut throat societies of lower Avarice.
 NO: 2
 EQ: 1
 CO: 1
 
 Royal Guards
-Avarices main military force. Trained from birth to be useful the the Serene Doge in a variety of roles they are trained to be Diplomats, statesmen, assasins, bodyguards, police forces and in extreme cases soldiers and riot control. Due to this early training they are amongst the best fighters in Oceanus, although their training in so many fields limits them from being able to rival the Triarii in sheer killing power. Their equipment consists of at least seventy percent of the Avarice budget and enables the Royal Guard to consider themselves among the best equipped on Neptune, a fact they are all too happy to show off given their ceremonial gear.
+Avarices main military force. Trained from birth to be useful the the Serene Doge in a variety of roles they are trained to be
+Diplomats, statesmen, assasins, bodyguards, police forces and in extreme cases soldiers and riot control. Due to this early training
+they are amongst the best fighters in Oceanus, although their training in so many fields limits them from being able to rival the
+Triarii in sheer killing power. Their equipment consists of at least seventy percent of the Avarice budget and enables the Royal Guard
+to consider themselves among the best equipped on Neptune, a fact they are all too happy to show off given their ceremonial gear.
 NO: 1
 EQ: 3
 CO: 2
